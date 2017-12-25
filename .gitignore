@@ -1,0 +1,5 @@
+*.txt
+*.pkl
+*.json
+__pycache__
+save_path

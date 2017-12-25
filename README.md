@@ -16,8 +16,8 @@ Bibtex:
 
 This repository also contains all the competitor's methods mentioned in the paper. Some implementations consults the [Transfomer](https://github.com/Kyubyong/transformer), and [Text-CNN](https://github.com/dennybritz/cnn-text-classification-tf).
 
-Note that, the heterogenuous behavior datasets used in the paper is private, so you could not run multi-behavior code directly.
-But you could run the code on amazon dataset directly and review the heterogenuous behavior code.
+Note that, the heterogeneous behavior datasets used in the paper is private, so you could not run multi-behavior code directly.
+But you could run the code on amazon dataset directly and review the heterogeneous behavior code.
 
 ## Requirements
 * Python >= 3.6.1
@@ -48,7 +48,7 @@ cd atrank;
 Alternatively, you could also run other competitors's methods directly by `cd bpr` `cd cnn` `cd rnn` `cd rnn_att`,
 and follow the same instructions below.
 
-Note that, the heterogenuous behavior datasets used in the paper is private, so you could't run the code of this part directly.
+Note that, the heterogeneous behavior datasets used in the paper is private, so you could't run the code of this part directly.
 But you could review the neural network code we use in this paper by `cd multi`.
 * Step 2: Building the dataset adapted to current method.
 ```

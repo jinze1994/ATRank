@@ -6,11 +6,11 @@ This is an implementation of the paper [ATRank: An Attention-Based User Behavior
 
 Bibtex:
 ```sh
-@article{zhou2018ATRank,
-  title={ATRank: An Attention-Based User Behavior Modeling Framework for Recommendation},
-  author={Zhou, Chang and Bai, Jinze and Song, Junshuai and Liu, Xiaofei and Zhao, Zhengchao and Chen, Xiusi and Gao, Jun},
-  journal={arXiv preprint arXiv:1711.06632},
-  year={2017}
+@paper{zhou2018atrank,
+  author = {Chang Zhou and Jinze Bai and Junshuai Song and Xiaofei Liu and Zhengchao Zhao and Xiusi Chen and Jun Gao},
+  title = {ATRank: An Attention-Based User Behavior Modeling Framework for Recommendation},
+  conference = {AAAI Conference on Artificial Intelligence},
+  year = {2018}
 }
 ```
 
